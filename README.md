@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://avatars.githubusercontent.com/u/your-user-id" alt="Ahmed Naser" width="200" height="200" style="border-radius: 50%; border: 5px solid #00D4FF; box-shadow: 0 0 20px rgba(0, 212, 255, 0.3);" />
+
 # 👋 Hi there, I'm Ahmed Naser
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Mobile+App+Developer;Software+Engineer;Clean+Code+Enthusiast" alt="Typing SVG" />
@@ -79,8 +81,8 @@ Working abroad and contributing to impactful projects
 </td>
 <td align="center" width="50%">
 
-### 🔒 Freelance Pentester
-**HackerOne**
+### 🚀 Software Developer Intern
+**Elevate Tech**
 
 </td>
 </tr>
