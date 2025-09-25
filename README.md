@@ -12,7 +12,6 @@
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedNasser1999)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-nasser-92361a215/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.nasser1935@gmail.com)
@@ -125,8 +124,7 @@ BLoC
 
 **🌐 API Integration**  
 Dio  
-REST APIs  
-Firebase
+REST APIs
 
 </td>
 </tr>
@@ -142,8 +140,7 @@ ObjectBox
 
 **🔧 Development Tools**  
 Git/GitHub  
-Postman  
-Firebase Services
+Postman
 
 </td>
 <td align="center" width="33%">
@@ -208,7 +205,7 @@ SOLID Principles
 <td align="center" width="100%" colspan="2">
 
 ### 👥 Employee Attendance App
-**Tech Stack:** Fingerprint + Firebase  
+**Tech Stack:** Fingerprint + Local Database  
 **Features:** Biometric authentication, real-time attendance tracking
 
 </td>
