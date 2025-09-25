@@ -1,14 +1,10 @@
-<div align="center">
-
-<img src="https://github.com/AhmedNasser1999.png" alt="Ahmed Naser" width="200" height="200" style="border-radius: 50%; border: 5px solid #00D4FF;" />
-
-# 👋 Hi there, I'm Ahmed Naser
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Mobile+App+Developer;Software+Engineer;Clean+Code+Enthusiast" alt="Typing SVG" />
-
-</div>
+# 👋 Hi, I'm Ahmed Naser
 
 <div align="center">
+
+<img src="https://github.com/AhmedNasser1999.png" alt="Ahmed Naser" width="200" height="200" style="border-radius: 100px; border: 5px solid #00D4FF;" />
+
+### Flutter Developer | Mobile App Developer | Software Engineer
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
@@ -17,228 +13,144 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.nasser1935@gmail.com)
 [![CV](https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1LUX7NJ7-F4hrOZEWcGrSGm_9wiVQkRy_/view?usp=drivesdk)
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Passionate+Flutter+Developer;Clean+Code+Enthusiast;Mobile+App+Specialist;Always+Learning+%26+Growing" alt="Typing SVG" />
+
 </div>
 
 ---
 
-<div align="center">
-
-## 🎓 About Me
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-</div>
+## 📖 About Me
 
 <div align="center">
 
-I'm a passionate **Flutter Developer**, **Software Engineer**, and **Mobile Developer** with a strong foundation in computer science and hands-on experience in mobile app development.
+I'm a passionate **Flutter Developer** and **Software Engineer** with a Computer Science degree from Banha University. I specialize in building scalable, maintainable mobile applications using modern development practices and clean architecture principles.
 
 </div>
 
-<table align="center">
-<tr>
-<td width="50%">
+### 🎯 What I Do
+- 📱 **Mobile App Development** with Flutter & Dart
+- 🏗️ **Clean Architecture** implementation
+- 🔧 **State Management** with Provider & BLoC
+- 🌐 **REST API Integration** and local database management
+- 🎨 **Responsive UI/UX** design implementation
 
-**🎓 Education**  
-Computer Science degree from Banha University
-
-**🎯 Current Focus**  
-Building scalable, maintainable mobile applications using Flutter and modern development practices
-
-</td>
-<td width="50%">
-
-**💡 Passion**  
-Creating innovative mobile solutions that make a difference
-
-**🚀 Goal**  
-Working abroad and contributing to impactful projects
-
-</td>
-</tr>
-</table>
+### 🚀 Career Goals
+- Working abroad on impactful international projects
+- Contributing to innovative mobile solutions
+- Continuous learning and professional growth
 
 ---
-
-<div align="center">
 
 ## 💼 Professional Experience
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-</div>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
 ### 🧑‍💻 Mobile Developer Intern
 **Orange Digital Center**
+- Developed and maintained mobile applications using Flutter
+- Collaborated with cross-functional teams on project development
+- Implemented modern mobile development practices
 
-</td>
-<td align="center" width="50%">
-
-### 🚀 Software Developer Intern
+### 🚀 Software Developer Intern  
 **Elevate Tech**
+- Gained hands-on experience in software development lifecycle
+- Worked on real-world projects with professional teams
+- Enhanced problem-solving and technical skills
 
-</td>
-</tr>
-</table>
+---
+
+## 🛠 Technical Skills
+
+### 📱 Flutter & Dart Expertise
+| Category | Technologies & Patterns |
+|----------|------------------------|
+| **🏗️ Architecture** | Clean Architecture, MVVM, Domain-Driven Design (DDD) |
+| **🔄 State Management** | Provider, BLoC, Riverpod |
+| **💾 Databases** | Hive, ObjectBox, SQLite, Firebase |
+| **🌐 Networking** | Dio, REST APIs, GraphQL, WebSockets |
+| **🎨 UI/UX** | Responsive Design, Material Design, Custom Widgets |
+| **🧪 Testing** | Unit Testing, Widget Testing, Integration Testing |
+
+### 🔧 Development Tools
+- **Version Control**: Git, GitHub, GitLab
+- **API Testing**: Postman, Insomnia
+- **IDEs**: Android Studio, VS Code
+- **Project Management**: Jira, Trello, Notion
+
+### 💡 Software Principles
+- Object-Oriented Programming (OOP)
+- SOLID Principles
+- Design Patterns
+- Clean Code Practices
+- Agile Methodology
+
+---
+
+## 🚀 Featured Projects
+
+### 📰 News Application
+**Technologies:** Flutter, Clean Architecture, Provider, Dio, News API  
+**Features:**
+- Real-time news updates from multiple sources
+- Clean, intuitive user interface
+- Efficient state management
+- Search and categorization functionality
+
+### 📝 Notes Application  
+**Technologies:** Flutter, Hive, Clean Architecture, Provider  
+**Features:**
+- Complete CRUD operations
+- Local storage with Hive database
+- Offline functionality
+- Clean and minimalistic design
+
+### 🛒 E-Commerce Store App
+**Technologies:** Flutter, Firebase, Provider, REST APIs  
+**Features:**
+- Product catalog with search and filters
+- Shopping cart functionality  
+- User authentication system
+- Order management
+
+### 👥 Employee Attendance System
+**Technologies:** Flutter, Local Database, Biometric Authentication  
+**Features:**
+- Fingerprint-based attendance tracking
+- Real-time monitoring
+- Admin and employee roles
+- Report generation
+
+### 🧾 Cashier Management App  
+**Technologies:** Flutter, Printing, Role-based Access  
+**Features:**
+- Invoice generation and printing
+- Multi-role access control
+- Sales tracking and reporting
+- Inventory management
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedNasser1999&show_icons=true&theme=radical&hide_border=true&count_private=true&show=reviews,discussions_started,discussions_answered)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedNasser1999&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmedNasser1999&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
-<div align="center">
+## 🌟 Personal Philosophy
 
-## 🛠 Tech Stack
+> *"The only way to do great work is to love what you do."* - Steve Jobs
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-</div>
-
-<div align="center">
-
-### 📱 Flutter Expertise
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-**🏗️ Architecture Patterns**  
-Clean Architecture  
-MVVM  
-Domain-Driven Design (DDD)
-
-</td>
-<td align="center" width="33%">
-
-**🔄 State Management**  
-Provider  
-BLoC
-
-</td>
-<td align="center" width="33%">
-
-**🌐 API Integration**  
-Dio  
-REST APIs
-
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-
-**💾 Local Databases**  
-Hive  
-ObjectBox
-
-</td>
-<td align="center" width="33%">
-
-**🔧 Development Tools**  
-Git/GitHub  
-Postman
-
-</td>
-<td align="center" width="33%">
-
-**🎨 Design & Principles**  
-Responsive Design  
-OOP  
-SOLID Principles
-
-</td>
-</tr>
-</table>
-
-</div>
+I believe in continuous learning and staying updated with the latest technologies. My passion for mobile development drives me to create applications that are not only functional but also provide exceptional user experiences.
 
 ---
 
-<div align="center">
-
-## 📂 Featured Projects
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-</div>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 📰 News App
-**Tech Stack:** Clean Architecture + Provider + Dio + News API  
-**Features:** Real-time news updates, clean UI, efficient state management
-
-</td>
-<td align="center" width="50%">
-
-### 📝 Notes App
-**Tech Stack:** Flutter + Hive + Clean Architecture  
-**Features:** Local storage, CRUD operations, offline functionality
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### 🛒 Store App
-**Tech Stack:** E-commerce with responsive UI  
-**Features:** Product catalog, shopping cart, user authentication
-
-</td>
-<td align="center" width="50%">
-
-### 🧾 Cashier App
-**Tech Stack:** Admin/Employee roles, invoices, printing  
-**Features:** Role-based access, invoice generation, receipt printing
-
-</td>
-</tr>
-<tr>
-<td align="center" width="100%" colspan="2">
-
-### 👥 Employee Attendance App
-**Tech Stack:** Fingerprint + Local Database  
-**Features:** Biometric authentication, real-time attendance tracking
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌍 Personal Goals
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-</div>
-
-<div align="center">
-
-I aspire to work abroad and contribute to impactful projects that make a difference in people's lives. I'm passionate about creating innovative mobile solutions and continuously learning new technologies.
-
-</div>
-
----
-
-<div align="center">
-
-## 📫 Connect With Me
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-</div>
+## 📫 Let's Connect
 
 <div align="center">
 
@@ -253,48 +165,8 @@ I aspire to work abroad and contribute to impactful projects that make a differe
 
 <div align="center">
 
-## ⚡ Motivation
+![Profile Views](https://komarev.com/ghpvc/?username=AhmedNasser1999&style=flat-square&color=blue)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-</div>
-
-<div align="center">
-
-> *"The only way to do great work is to love what you do."* - Steve Jobs
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AhmedNasser1999&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedNasser1999&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedNasser1999&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=AhmedNasser1999&style=flat-square&color=blue" alt="Profile Views" />
-
-</div>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+*Thank you for visiting my profile! Feel free to reach out for collaborations or opportunities.* ✨
 
 </div>
