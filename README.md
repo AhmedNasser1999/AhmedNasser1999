@@ -163,10 +163,3 @@ I believe in continuous learning and staying updated with the latest technologie
 
 ---
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=AhmedNasser1999&style=flat-square&color=blue)
-
-*Thank you for visiting my profile! Feel free to reach out for collaborations or opportunities.* ✨
-
-</div>
