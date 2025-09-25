@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/your-user-id" alt="Ahmed Naser" width="200" height="200" style="border-radius: 50%; border: 5px solid #00D4FF; box-shadow: 0 0 20px rgba(0, 212, 255, 0.3);" />
+<img src="https://via.placeholder.com/200x200/00D4FF/FFFFFF?text=AN" alt="Ahmed Naser" width="200" height="200" style="border-radius: 50%; border: 5px solid #00D4FF; box-shadow: 0 0 20px rgba(0, 212, 255, 0.3);" />
 
 # 👋 Hi there, I'm Ahmed Naser
 
